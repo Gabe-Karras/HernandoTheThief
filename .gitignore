@@ -72,3 +72,22 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/ORME.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/T_MT00183_ORME.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/T_MT00183_height.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/T_MT00183_normal.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/T_MT00229_Height.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/T_MT00229_Normal.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/T_MT00183_basecolor.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/T_MT00183_roughness.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/T_MT00229_BaseColor.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/T_MT00229_Roughness.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00082-Concrete_Clean/MI_MT00082_Concrete_Clean.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00183-Rough_Concrete/MI_MT00183_Rough_Concrete.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00082-Concrete_Clean/T_MT00082_Concrete_Clean_ORME.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00229-Concrete_Damaged/MI_MT00229_Concrete_Damaged.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00239-Damaged_Concrete/MI_MT00239_Damaged_Concrete.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00337-Concrete_Damaged/MI_MT00337_Concrete_Damaged.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00082-Concrete_Clean/T_MT00082-Concrete_Clean_Height.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00082-Concrete_Clean/T_MT00082-Concrete_Clean_Normal.uasset
+Content/SM_Concrete_07/Materials/Concrete_07/MT00337-Concrete_Damaged/T_MT00337-Concrete_Damaged_BaseColor.uasset
